@@ -1,20 +1,14 @@
-# Ruby-school-library
-
 # 📗 Table of Contents
 
-- [Ruby-school-library](#ruby-school-library)
 - [📗 Table of Contents](#-table-of-contents)
-- [Ruby-school-library ](#ruby-school-library-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Run Tests](#run-tests)
   - [👥 Authors ](#-authors-)
-    - [👤 **Fahim Khan**:](#-salwa-ballouti)
 - [🔭 Future Features:](#-future-features)
 - [🤝 Contributing:](#-contributing)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -23,9 +17,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Ruby-school-library <a name="about-project"></a>
+# Test-driven development(TDD) <a name="about-project"></a>
 
-> **Ruby-school-library** is a Ruby project that has the purpose of creating a digital solution for a school library that enables the librarian to keep track of the books in the library and who borrows them.
+> **Test-driven development(TDD)** TDD which is abbreviated for test driven development in ruby
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,7 +32,7 @@
   </ul>
 </details>
 
-<details>
+<!-- <details>
   <summary>Server</summary>
   <ul>
     <li>N/A</li>
@@ -50,13 +44,16 @@
   <ul>
     <li>N/A</li>
   </ul>
-</details>
+</details> -->
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **N/A**
+- **Uses Ruby**
+- **Fizzbuzz**
+- **Factorial**
+- **Reverse**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,11 +82,11 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-https://github.com/yash244466666/TDD
+git clone https://github.com/yash244466666/TDD
 ```
 
 ```sh
-cd OOP_School_Library bundle install
+cd TDD
 ```
 
 ```sh
@@ -97,6 +94,10 @@ bundle install
 ```
 
 ### Run Tests
+
+```sh
+rspec spec
+```
 
 ```sh
 Rubocop --color
@@ -108,18 +109,16 @@ Rubocop --color
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author 1**
+👤 **Yash**
 
-- Yash
 - GitHub: [Yash](https://github.com/yash244466666)
 - LinkedIn: [Yash Solo](https://www.linkedin.com/in/yash-solo)
 - Twitter: [Yash Solo](https://twitter.com/yash_solo000)
 
-👤 **Author 2**
+👤 **Outkarm Johnson**
 
-- Saba Ahmad
-- GitHub: @SabaAhmad404
-- LinkedIn: @saba ahmad
+- GitHub: [Outkarm](https://github.com/Outkarm)
+- LinkedIn: [John Kpordje](https://www.linkedin.com/in/john-kpordje-866749241/)
 
 # 🔭 Future Features:
 
@@ -129,6 +128,8 @@ Rubocop --color
 # 🤝 Contributing:
 
 Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Dmambo/TDD/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
