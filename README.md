@@ -117,9 +117,9 @@ Rubocop --color
 
 👤 **Author 2**
 
-- Saba Ahmad
-- GitHub: @SabaAhmad404
-- LinkedIn: @saba ahmad
+- Outkarm Johnson
+- GitHub: [Outkarm](https://github.com/Outkarm)
+- LinkedIn: [John Kpordje](https://www.linkedin.com/in/john-kpordje-866749241/)
 
 # 🔭 Future Features:
 
