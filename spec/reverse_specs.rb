@@ -1,5 +1,3 @@
-# unit tests for method reverse in class Sover that returns a string in reverse
-
 require 'rspec'
 require_relative '../solver'
 

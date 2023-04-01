@@ -1,5 +1,3 @@
-# write only unit tests for method fizzbuzz in class Solver
-
 require 'rspec'
 require_relative '../solver'
 
