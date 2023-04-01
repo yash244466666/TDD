@@ -1,14 +1,9 @@
-# Test-driven development(TDD)
-
 # 📗 Table of Contents
 
-- [Test-driven development(TDD)](#Test-driven development(TDD))
 - [📗 Table of Contents](#-table-of-contents)
-- [Test-driven development(TDD) ](#Test-driven development(TDD)-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -96,6 +91,10 @@ bundle install
 ```
 
 ### Run Tests
+
+```sh
+rspec spec
+```
 
 ```sh
 Rubocop --color
