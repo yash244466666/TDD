@@ -79,7 +79,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-https://github.com/yash244466666/TDD
+git clone https://github.com/yash244466666/TDD
 ```
 
 ```sh
